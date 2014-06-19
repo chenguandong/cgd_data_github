@@ -10,12 +10,13 @@
                 "copyright": "Copyright @喜马拉雅 www.ximalaya.com"
             }, 
             {
-                "title": "摩卡时光", 
-                "image": "http://fdfs.xmcdn.com/group3/M04/15/B9/wKgDsVIOAOGQ8b6vAAF_LgvmBYc735.jpg", 
-                "description": "业余主持，纯属兴趣，更新不定时，长短没限制，自嘲只为传播欢乐，不要结合现实对号入座。喜欢请多给我一点鼓励，如果不喜欢也希望得到中肯的建议。如果实在不和您的胃口，请移步到八丈以外的瑶池仙境，这里是人间，不适合您……实在要喷，请注意下自己的素质和言行，只是善意提醒，损人是一件灰常折寿的事情。", 
-                "link": "http://www.ximalaya.com/album/203347.xml", 
+                "title": "糗事百科", 
+                "image": "http://fdfs.xmcdn.com/group3/M03/61/C9/wKgDslJ3R3mBMskbAAVClxqNDdU988.jpg", 
+                "description": "每日更新最新最糗的糗事百科，不同的人气播主，带给你不一样的糗事欢笑。未来，采采，李潇钦，掉掉，怪兽，妖已凉。不同的风格，或傻，或2，或呆，或萌，总有一款适合你。 — 不用多久就会升职加薪，当上总经理，出任CEO，赢取白富美，走上人生巅峰！", 
+                "link": "http://www.ximalaya.com/album/217537.xml", 
                 "copyright": "Copyright @喜马拉雅 www.ximalaya.com"
             }
+            
         ]
     }, 
     {
@@ -27,6 +28,13 @@
                 "description": "<![CDATA[我们来自各行各业，对阅读与声音的共同兴趣将我们吸引到一起。我们力求精选具有时代感的好书，用干净而平实的声音进行原文朗读，希望回归到文字本身、回归到声音本身，“用声音裸泳”。每本选书将在周一至五晚8点准时更新。为尊重原作者的著作权，我们一般会选择不超过全书三分之一的内容进行朗读。如果您想了解后续内容，建议阅读原著。“一个人的书房”电台致力于提供令人愉悦的有声阅读体验。推荐好书，倡导阅读。欢迎收听，持续互动。]]>", 
                 "link": "http://iread.libsyn.com/rss", 
                 "copyright": "<![CDATA[查找微信公众帐号：一个人的书房]]>"
+            },
+            {
+                "title": "摩卡时光", 
+                "image": "http://fdfs.xmcdn.com/group3/M04/15/B9/wKgDsVIOAOGQ8b6vAAF_LgvmBYc735.jpg", 
+                "description": "业余主持，纯属兴趣，更新不定时，长短没限制，自嘲只为传播欢乐，不要结合现实对号入座。喜欢请多给我一点鼓励，如果不喜欢也希望得到中肯的建议。如果实在不和您的胃口，请移步到八丈以外的瑶池仙境，这里是人间，不适合您……实在要喷，请注意下自己的素质和言行，只是善意提醒，损人是一件灰常折寿的事情。", 
+                "link": "http://www.ximalaya.com/album/203347.xml", 
+                "copyright": "Copyright @喜马拉雅 www.ximalaya.com"
             }
         ]
     }
