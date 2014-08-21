@@ -25,6 +25,13 @@
                 "link": "http://www.ximalaya.com/album/230543.xml", 
                 "copyright": "Copyright @喜马拉雅 www.ximalaya.com"
             },
+             {
+                "title": "网易轻松一刻", 
+                "image": "http://image.kaolafm.net/mz/images/201406/6df26692-d2a7-4e3c-9fca-e560ef838c90/default.jpg", 
+                "description": "《轻松一刻》做为网易的王牌栏目，受到数以千万计网友的追捧，音频特别版更是为网友奉上的一道屌丝大餐。 ", 
+                "link": "http://dallas.example.com/rss.xml", 
+                "copyright": "CopyRight © 2014 AutoRadio ,All Rights Reserved"
+            },
             {
                 "title": "吐槽2014", 
                 "image": "http://fdfs.xmcdn.com/group2/M01/51/24/wKgDr1LYnAuRZh4GAAEwHf2bPiw350.jpg", 
@@ -91,6 +98,26 @@
                 "description": "美文调频，当文字遇到声音，给你不一样的精彩。 阅读品牌“美文日赏”官方电台，超过五百万读者订阅的最流行阅读志，为你带来最具品位的阅读体验，在这里重拾阅读乐趣。", 
                 "link": "http://nj.lizhi.fm/rss/60239.xml", 
                 "copyright": "Copyright @荔枝FM www.lizhi.fm"
+            }
+        ]
+    },
+    
+    {
+        "categoryName":"新闻",
+	"subCategory":[
+            {
+                "title": "凤凰FM", 
+                "image": "http://imgs.diantai.ifeng.com/images/indexslab/e860fc7675a821579c73ccf764d0db7f.jpg", 
+                "description": "凤凰FM，无线互联网时代的音频内容体验，为用户提供无线互联网时代的海量优质音频内容收听体验。涵盖“新闻，财经，亲子，健康，娱乐，体育，外语，有声小说，军事，文史”等20多个类别的音频", 
+                "link": "http://diantai.ifeng.com/fm_rss_01.xml", 
+                "copyright": "Copyright © 2014 凤凰FM 版权所有>"
+            },
+            {
+                "title": "喜马拉雅News", 
+                "image": "http://fdfs.xmcdn.com/group4/M04/9B/97/wKgDtFPZuSzh5K4SAAOmg5PnV1o412.jpg", 
+                "description": "喜马拉雅News，带给你最新鲜的新闻资讯。欢迎通过拉雅手机客户端下载收听更多新闻资讯类节目。", 
+                "link": "http://www.ximalaya.com/album/269698.xml", 
+                "copyright": "Copyright @喜马拉雅 www.ximalaya.com"
             }
         ]
     }
