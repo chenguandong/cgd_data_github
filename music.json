@@ -133,6 +133,14 @@
 
                 "link": "http://itstreaming.apple.com/podcasts/atd/atd.xml", 
                 "copyright": "2003-2012 Dow Jones"
+            },
+             {
+                "title": "实时报道", 
+                "image": "http://file.caixin.com/images/podcast/ssbd.jpg, 
+                "description": "精辟言论，原生态呈现；独到观点，最及时报道。让你听到最有价值的声音。　财新视频植根财新网，以独立观察者和权威评论员身份，捕捉财经新闻镜头，解读政策趋势，梳理事件脉络，透视市场变局，已成功与多家电视台合作，覆盖范围包括中国内地和香港地区。", 
+
+                "link": "http://other.caixin.com/itunes/100179202.xml", 
+                "copyright": "财新网"
             }
         ]
     }
