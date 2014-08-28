@@ -114,5 +114,18 @@
                 "copyright": "Copyright @喜马拉雅 www.ximalaya.com"
             }
         ]
+    },
+    {
+        "categoryName":"视频专区",
+	"subCategory":[
+            {
+                "title": "DIE MONSTER UNI", 
+                "image": "http://disney.cdn.stream-ag.de/podcast/monsteruni/HP_144.jpg", 
+                "description": "Schreibt euch ein - für das Sommersemester 2013 an der MU - MONSTER UNI - und begleitet die Studenten James P. Sullivan (Sulley) und Mike Glotzkowski (Mike) diesen Sommer 2013 im Kino - in 3D!", 
+
+                "link": "http://disney.cdn.stream-ag.de/podcast/monsteruni/podcast.xml", 
+                "copyright": "© Disney/Pixar"
+            }
+        ]
     }
 ]
